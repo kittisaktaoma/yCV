@@ -2,6 +2,6 @@ name: ""
 description: ""
 
 url: "https://kittisaktaoma.github.io"
-
+baseurl: '/yCV' #change it according to your repository name
 
 permalink: pretty
