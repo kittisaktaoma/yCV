@@ -1,5 +1,11 @@
 ---
-layout: default.html
+layout: default
 title: Hello, World!
 ---
-This is my CV
+
+<div class="container-fluid">
+    <div class="row">
+      <div class="col-sm-4"> Pic and App</div>
+      <div class="col-sm-8"> Description</div>
+    </div>
+</div>
