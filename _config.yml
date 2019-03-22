@@ -1,6 +1,6 @@
 name: Mr.Kittisak Taoma
 url: "https://kittisaktaoma.github.io"
-baseurl: '/yCV' #change it according to your repository name
+baseurl: '/yCV' 
 permalink: pretty
 
 # Social icons
